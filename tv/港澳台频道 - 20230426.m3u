@@ -13,6 +13,9 @@ https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 group-title="香港",TVB财经体育资讯台
 https://tvp22.sky4k.top/index2.php
 
+
+#EXTINF:-1 group-title="香港",TVB翡翠台http://162.19.247.76:22222/live/tvbfc/index.m3u8
+
 #EXTINF:-1 group-title="台湾",好莱坞电影台
 http://120.84.96.89:808/hls/24/index.m3u8
 #EXTINF:-1 group-title="香港",TVB翡翠台
