@@ -36,6 +36,11 @@ http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/800000
 #EXTINF:-1,CCTV-17农业农村
 http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
+#EXTINF:-1 group-title="移动线路",CETV-1
+http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="移动线路",CETV-4
+http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+
 #EXTINF:-1 group-title="移动线路",CCTV-1综合
 http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 group-title="移动线路",CCTV-2财经
