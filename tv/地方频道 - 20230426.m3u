@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1,金鹰纪实
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+
 #EXTINF:-1,上海综合
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+
 #EXTINF:-1,上海都市
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+
 #EXTINF:-1,上海教育
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
+
 #EXTINF:-1,上海外语
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+
 #EXTINF:-1,东方影视
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+
 #EXTINF:-1,东方财经
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+
 #EXTINF:-1,哈哈炫动
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+
 #EXTINF:-1,卡酷少儿
-http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+
 
 #EXTINF:-1 group-title="移动线路",黑莓动画
 http://39.134.66.110/PLTV/88888888/224/3221225529/index.m3u8
