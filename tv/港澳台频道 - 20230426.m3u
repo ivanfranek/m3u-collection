@@ -26,9 +26,9 @@ http://r.jdshipin.com/vSJvl
 
 #EXTINF:-1 group-title="台湾",民视新闻台
 http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯台
+#EXTINF:-1 group-title="香港",凤凰卫视资讯台
 http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-#EXTINF:-1 group-title="香港",凤凰中文台
+#EXTINF:-1 group-title="香港",凤凰卫视中文台
 http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1 group-title="台湾",民视第一台
 http://61.221.81.93:8078/hls/40/80/ftv.m3u8
@@ -46,7 +46,7 @@ http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 #EXTINF:-1 group-title="台湾",ELEVEN 1
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 group-title="台湾", AXN台湾
+#EXTINF:-1 group-title="台湾",AXN台湾
 http://61.221.81.93:8078/hls/32/80/axn.m3u8
 #EXTINF:-1 group-title="台湾",ELEVEN 2
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
