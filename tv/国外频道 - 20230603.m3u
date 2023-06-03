@@ -2,19 +2,6 @@
 #EXTINF:-1 group-title="美国",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 
-#EXTINF:-1 group-title="日本",NHK BS1
-http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-#EXTINF:-1 group-title="日本",BS-TBS
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1 group-title="日本",NHK E
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
-#EXTINF:-1 group-title="日本",TBS
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1 group-title="日本",TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-#EXTINF:-1 group-title="日本",Tokyo MX1
-http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-
 #EXTINF:-1 group-title="日本",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 group-title="日本",Tokyo MX2
